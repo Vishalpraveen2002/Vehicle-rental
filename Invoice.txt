@@ -1,0 +1,207 @@
+
+		                       Car Rental - Customer Invoice                  
+			///////////////////////////////////////////////////////////
+			| Invoice No. :------------------|           #Cnb82353 |
+			| Customer Name:-----------------|                Iyer |
+			| Vehicle Name :-----------------|     Porsche 911 GT3 |
+			| Vehicle No. :------------------|                9999 |
+			| Number of days :---------------|                   6 |
+			| Your Rental Amount is :--------|                 480 |
+			| Caution Money :----------------|                   0 |
+			| Advanced :---------------------|                   0 |
+			 ________________________________________________________
+
+			| Total Rental Amount is :-------|                 480 |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			///////////////////////////////////////////////////////////
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			///////////////////////////////////////////////////////////
+		---------------------------------------------------------------
+
+		                       Car Rental - Customer Invoice                  
+			///////////////////////////////////////////////////////////
+			| Invoice No. :------------------|           #Cnb82353 |
+			| Customer Name:-----------------|              Vishal |
+			| Vehicle Name :-----------------|             Audi A3 |
+			| Vehicle No. :------------------|                7234 |
+			| Number of days :---------------|                   2 |
+			| Your Rental Amount is :--------|                  40 |
+			| Caution Money :----------------|                   0 |
+			| Advanced :---------------------|                   0 |
+			 ________________________________________________________
+
+			| Total Rental Amount is :-------|                  40 |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			///////////////////////////////////////////////////////////
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			///////////////////////////////////////////////////////////
+		---------------------------------------------------------------
+
+		                       Car Rental - Customer Invoice                  
+			///////////////////////////////////////////////////////////
+			| Invoice No. :------------------|           #Cnb82353 |
+			| Customer Name:-----------------|                Iyer |
+			| Vehicle Name :-----------------|        BMW S 1000RR |
+			| Vehicle No. :------------------|                4093 |
+			| Number of days :---------------|                   5 |
+			| Your Rental Amount is :--------|                 150 |
+			| Caution Money :----------------|                   0 |
+			| Advanced :---------------------|                   0 |
+			 ________________________________________________________
+
+			| Total Rental Amount is :-------|                 150 |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			///////////////////////////////////////////////////////////
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			///////////////////////////////////////////////////////////
+		---------------------------------------------------------------
+
+		                       Car Rental - Customer Invoice                  
+			///////////////////////////////////////////////////////////
+			| Invoice No. :------------------|           #Cnb82353 |
+			| Customer Name:-----------------|              Vishal |
+			| Vehicle Name :-----------------|        BMW 3 Series |
+			| Vehicle No. :------------------|                5673 |
+			| Number of days :---------------|                   4 |
+			| Your Rental Amount is :--------|                 200 |
+			| Caution Money :----------------|                   0 |
+			| Advanced :---------------------|                   0 |
+			 ________________________________________________________
+
+			| Total Rental Amount is :-------|                 200 |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			///////////////////////////////////////////////////////////
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			///////////////////////////////////////////////////////////
+		---------------------------------------------------------------
+
+		                       Car Rental - Customer Invoice                  
+			///////////////////////////////////////////////////////////
+			| Invoice No. :------------------|           #Cnb82353 |
+			| Customer Name:-----------------|               drake |
+			| Vehicle Name :-----------------|             Audi Q5 |
+			| Vehicle No. :------------------|                1029 |
+			| Number of days :---------------|                   4 |
+			| Your Rental Amount is :--------|                 120 |
+			| Caution Money :----------------|                   0 |
+			| Advanced :---------------------|                   0 |
+			 ________________________________________________________
+
+			| Total Rental Amount is :-------|                 120 |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			///////////////////////////////////////////////////////////
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			///////////////////////////////////////////////////////////
+		---------------------------------------------------------------
+
+		                       Car Rental - Customer Invoice                  
+			///////////////////////////////////////////////////////////
+			| Invoice No. :------------------|           #Cnb82353 |
+			| Customer Name:-----------------|                   y |
+			| Vehicle Name :-----------------|             Audi Q5 |
+			| Vehicle No. :------------------|                1029 |
+			| Number of days :---------------|                   2 |
+			| Your Rental Amount is :--------|                  60 |
+			| Caution Money :----------------|                   0 |
+			| Advanced :---------------------|                   0 |
+			 ________________________________________________________
+
+			| Total Rental Amount is :-------|                  60 |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			///////////////////////////////////////////////////////////
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			///////////////////////////////////////////////////////////
+		---------------------------------------------------------------
+
+		                       Car Rental - Customer Invoice                  
+			///////////////////////////////////////////////////////////
+			| Invoice No. :------------------|           #Cnb82353 |
+			| Customer Name:-----------------|                   y |
+			| Vehicle Name :-----------------|     Porsche 911 GT3 |
+			| Vehicle No. :------------------|                9999 |
+			| Number of days :---------------|                   4 |
+			| Your Rental Amount is :--------|                 320 |
+			| Caution Money :----------------|                   0 |
+			| Advanced :---------------------|                   0 |
+			 ________________________________________________________
+
+			| Total Rental Amount is :-------|                 320 |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			///////////////////////////////////////////////////////////
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			///////////////////////////////////////////////////////////
+		---------------------------------------------------------------
+
+		                       Car Rental - Customer Invoice                  
+			///////////////////////////////////////////////////////////
+			| Invoice No. :------------------|           #Cnb82353 |
+			| Customer Name:-----------------|                John |
+			| Vehicle Name :-----------------|             Audi A3 |
+			| Vehicle No. :------------------|                7234 |
+			| Number of days :---------------|                   4 |
+			| Your Rental Amount is :--------|                  80 |
+			| Caution Money :----------------|                   0 |
+			| Advanced :---------------------|                   0 |
+			 ________________________________________________________
+
+			| Total Rental Amount is :-------|                  80 |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			///////////////////////////////////////////////////////////
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			///////////////////////////////////////////////////////////
+		---------------------------------------------------------------
+
+		                       Car Rental - Customer Invoice                  
+			///////////////////////////////////////////////////////////
+			| Invoice No. :------------------|           #Cnb82353 |
+			| Customer Name:-----------------|                John |
+			| Vehicle Name :-----------------|             Audi A3 |
+			| Vehicle No. :------------------|                7234 |
+			| Number of days :---------------|                   5 |
+			| Your Rental Amount is :--------|                 100 |
+			| Caution Money :----------------|                   0 |
+			| Advanced :---------------------|                   0 |
+			 ________________________________________________________
+
+			| Total Rental Amount is :-------|                 100 |
+			 ________________________________________________________
+			 # This is a computer generated invoce and it does not
+			 require an authorised signture #
+ 
+			///////////////////////////////////////////////////////////
+			You are advised to pay up the amount before due date.
+			Otherwise penelty fee will be applied
+			///////////////////////////////////////////////////////////
+		---------------------------------------------------------------

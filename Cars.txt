@@ -1,0 +1,32 @@
+Car: BMW 3 Series
+Car No.: 5673
+Seating capacity: 4 seater
+Engine capacity: 3000cc
+Mileage: 11.86kmpl
+Topspeed: 250kmph
+Rent(per day): $50
+%
+Car: Audi Q5
+Car No.: 1029
+Seating capacity: 4 seater
+Engine capacity: 2000cc
+Mileage: 13.47kmpl
+Topspeed: 218kmph
+Rent(per day): $30
+%
+Car: Audi A3
+Car No.: 7234
+Seating capacity: 4 seater
+Engine capacity: 1400cc
+Mileage: 19.8kmpl
+Topspeed: 215kmph
+Rent(per day): $20
+%
+Car: Porsche 911 GT3
+Car No.: 9999
+Seating capacity: 2 seats
+Engine capacity: 4000cc
+Mileage: 8.6kmpl
+Topspeed: 317kmph
+Rent(per day): $80
+%

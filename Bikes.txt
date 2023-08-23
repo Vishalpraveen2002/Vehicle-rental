@@ -1,0 +1,24 @@
+Bike: Ducati Panigale V4
+Bike No.: 7652
+Engine Capacity: 1100cc
+Fuel Economy: 10kmpl
+Rent(per day): $60
+%
+Bike: BMW S 1000RR
+Bike No.: 4093
+Engine Capacity: 1000cc
+Fuel Economy: 15.6kmpl
+Rent(per day): $40
+%
+Bike: Kawasaki Ninja
+Bike No.: 6666
+Engine Capacity: 600cc
+Fuel Economy: 21.6kmpl
+Rent(per day): $20
+%
+Bike: Aprilaa RSV4 RF
+Bike No.: 9999
+Engine Capacity: 1100cc
+Fuel Economy: 12.4kmpl
+Rent(per day): $55
+%
